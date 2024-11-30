@@ -64,6 +64,13 @@ Open the application in your browser at http://localhost:8153
 # Live Link -
 https://guddu-campusconnect.netlify.app/
 
+# Screenshot
+![image](https://github.com/user-attachments/assets/d82bc7c8-1f58-4cbb-9a6c-58d6f9b8d0c2)
+![image](https://github.com/user-attachments/assets/6fbcb3f8-5536-4d98-ae0a-18b37946ab0f)
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
