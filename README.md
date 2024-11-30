@@ -1,3 +1,66 @@
+# 🎓 CampusConnect
+
+**CampusConnect** is a responsive educational website built using React and Vite, offering an intuitive and seamless user experience. The platform showcases programs, university details, and an interactive contact form to connect with prospective students.
+
+---
+
+## 🌟 Features
+
+- 🏠 **Home Page**  
+  A clean landing page introducing the platform's vision of better education for a better world.
+
+- 🎓 **Programs Section**  
+  Details about educational offerings, including:
+  - Graduation Degree
+  - Master Degree
+  - Post Graduation
+
+- 🏫 **About Us**  
+  A brief overview of the university's mission to nurture future leaders.
+
+- ✉️ **Contact Us**  
+  Interactive contact form for users to submit inquiries, including:
+  - Name
+  - Phone Number
+  - Message
+
+- ⚡ **Responsive Design**  
+  Fully responsive layout optimized for various devices.
+
+---
+
+## 💻 Technologies Used
+
+- **ReactJS**: For building the user interface with reusable components.
+- **Vite**: For fast development and optimized builds.
+- **CSS**: For styling and responsiveness.
+- **JavaScript**: For dynamic behavior and form validation.
+
+---
+
+## 🚀 Installation and Usage
+
+1. **Clone the Repository**  
+   ```bash
+   git clone https://github.com/guddukrp/campusconnect.git
+   cd campusconnect
+
+2. Install Dependencies
+```
+npm install
+```
+3. Run the Development Server
+```
+npm run dev
+```
+4. Build for Production
+```
+npm run build
+```
+
+Open the application in your browser at http://localhost:8153
+
+
 # Live Link -
 https://guddu-campusconnect.netlify.app/
 
