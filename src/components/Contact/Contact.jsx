@@ -40,7 +40,7 @@ const Contact = () => {
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem ali at a, pariatur placeat ullam nobis molestias.</p>
         <ul>
             <li><img src={mail_icon} alt="" />guddukp11@gmail.com</li>
-            <li><img src={phone_icon} alt="" />+91 7739418381</li>
+            <li><img src={phone_icon} alt="" />+91 7739112233</li>
             <li><img src={location_icon} alt="" />Budge Budge, Kolkata</li>
         </ul>
       </div>
